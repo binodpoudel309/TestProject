@@ -1,4 +1,3 @@
-# File:"C:\Users\PSStudies\Desktop\case.py", generated on SAT, FEB 24 2024  14:08, PSS(R)E Xplore release 35.03.03
 import os
 import sys
 import pandas as pd
